@@ -29,11 +29,6 @@ switch(day){
 
     default:
     console.log("Not Found");
-    
-        
-        
-        
-        
-    
+      
     
 }
